@@ -23,8 +23,9 @@ Why: Because we're always learning
 | 5              | 2025-03-05 | 4          | Making an app - get android emulator running | [link](app/)    |
 | 6              | 2025-03-19 | 4          | Making an app - mountain question            | [link](question_app/)|
 | 7              | 2025-03-26 | 3          | Fighting against vibe coding                 | [link](question_app/)|
-| 8              | 2025-04-02 | 4          | strategy session | [link](question_app/)|
-| 9              | **2025-04-16** | | | [link](question_app/)|
+| 8              | 2025-04-02 | 4          | strategy session                             | [link](question_app/)|
+| 9              | 2025-04-16 | 4          | project plan and management                  | [link](question_app/)|
+| 10              | **2025-04-23** | | | [link](question_app/)|
 
 * Current Project - building an app "is the mountain out?"
 
