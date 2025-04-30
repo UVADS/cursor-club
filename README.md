@@ -31,7 +31,7 @@ Why: Because we're always learning
 
 ## Membership
 * Faculty Advisor: [github.com/alonzi](https://www.github.com/alonzi)
-* Founding Members: Abel Addis, 
+* Founding Members: Abel Addis, Ryan Healy
 * Members: 
 
 
